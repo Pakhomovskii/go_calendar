@@ -13,5 +13,9 @@ Run calendar without colors
 ```bash
 ./go_cal no-color
 ```
+Invoke help menu
+```bash
+./go_cal --help
+```
 
 ![pic](./pic.png)
